@@ -1,0 +1,10 @@
+﻿<Window x:Class="UmbracoCompare.PropertyViewer"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Property Viewer" Height="150" Width="850">
+    <Grid>
+        <DataGrid Name="OutputPropertyCompare" AutoGenerateColumns="True">
+            
+        </DataGrid>
+    </Grid>
+</Window>
